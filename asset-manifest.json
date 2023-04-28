@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test-project/static/css/main.e6e38309.css",
-    "main.js": "/test-project/static/js/main.893bca3c.js",
-    "static/media/discount-shape 1.svg": "/test-project/static/media/discount-shape 1.5230029f4e637c534c143c4d95cf421f.svg",
-    "static/media/wallet-money 2.svg": "/test-project/static/media/wallet-money 2.25d824b57e5c5a753432296807e7285d.svg",
-    "static/media/3d-square 1.svg": "/test-project/static/media/3d-square 1.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
-    "static/media/message-question 1.svg": "/test-project/static/media/message-question 1.5d23912a887f9edc9d9f8d957ec960e6.svg",
-    "static/media/key-square@2x.svg": "/test-project/static/media/key-square@2x.153a0eb179be0548729792a4f21fc52e.svg",
+    "main.css": "/test-project/static/css/main.2835031f.css",
+    "main.js": "/test-project/static/js/main.2c09e503.js",
+    "static/media/discount-shape 1.svg": "/test-project/static/media/discount-shape 1.6173903c20a60f923179e722dc0ff91e.svg",
+    "static/media/wallet-money 2.svg": "/test-project/static/media/wallet-money 2.18c43397e34f1fe16af5b4ed2e9e2cc1.svg",
+    "static/media/3d-square 1.svg": "/test-project/static/media/3d-square 1.28af61e375474813a6adc4fb27e44391.svg",
+    "static/media/message-question 1.svg": "/test-project/static/media/message-question 1.d9aa53d3772328403382b97577e39a82.svg",
+    "static/media/key-square@2x.svg": "/test-project/static/media/key-square@2x.6cea77b5f7edab5e350a0a4c207516da.svg",
     "index.html": "/test-project/index.html",
-    "main.e6e38309.css.map": "/test-project/static/css/main.e6e38309.css.map",
-    "main.893bca3c.js.map": "/test-project/static/js/main.893bca3c.js.map"
+    "main.2835031f.css.map": "/test-project/static/css/main.2835031f.css.map",
+    "main.2c09e503.js.map": "/test-project/static/js/main.2c09e503.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6e38309.css",
-    "static/js/main.893bca3c.js"
+    "static/css/main.2835031f.css",
+    "static/js/main.2c09e503.js"
   ]
 }
