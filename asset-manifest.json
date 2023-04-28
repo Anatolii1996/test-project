@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-project/static/css/main.2835031f.css",
+    "main.css": "/test-project/static/css/main.9995c29a.css",
     "main.js": "/test-project/static/js/main.8020c79d.js",
     "static/media/discount-shape 1.svg": "/test-project/static/media/discount-shape 1.6173903c20a60f923179e722dc0ff91e.svg",
     "static/media/wallet-money 2.svg": "/test-project/static/media/wallet-money 2.18c43397e34f1fe16af5b4ed2e9e2cc1.svg",
@@ -8,11 +8,11 @@
     "static/media/message-question 1.svg": "/test-project/static/media/message-question 1.d9aa53d3772328403382b97577e39a82.svg",
     "static/media/key-square@2x.svg": "/test-project/static/media/key-square@2x.6cea77b5f7edab5e350a0a4c207516da.svg",
     "index.html": "/test-project/index.html",
-    "main.2835031f.css.map": "/test-project/static/css/main.2835031f.css.map",
+    "main.9995c29a.css.map": "/test-project/static/css/main.9995c29a.css.map",
     "main.8020c79d.js.map": "/test-project/static/js/main.8020c79d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2835031f.css",
+    "static/css/main.9995c29a.css",
     "static/js/main.8020c79d.js"
   ]
 }
